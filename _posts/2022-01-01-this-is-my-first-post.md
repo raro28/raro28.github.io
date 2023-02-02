@@ -5,6 +5,6 @@ title: This is my first Post
 
 Hello World!
 
-This is my first post on MyBlog.
+This is my first post on {{ site.title }}.
 
-![Image of MyBlog](/assets/jekyll.png)
+![Image of {{ site.title }}](/assets/jekyll.png)
